@@ -1,0 +1,20 @@
+body{
+    background-color: gray;
+}
+
+
+fieldset{
+    border: 2px solid red;
+    border-radius: 2em;
+}
+#run{
+    margin-left: 600px;
+    border-style:solid;
+    border-radius: 9px;
+    border-color: red;
+    background-color: chocolate;
+}
+#head{
+    color: crimson;
+    text-shadow: 1px 2px 3px;
+}
